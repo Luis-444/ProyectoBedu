@@ -1,0 +1,16 @@
+.carouselcontainer img {
+  height: 610px;
+}
+.carouselcontainer .carouselbtn {
+  display: inline-block;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #000000;
+  color: chartreuse;
+  font-size: 15px;
+  border: 5px chartreuse;
+  margin: 10px 0;
+}
+.carouselcontainer .carouselbtn :hover {
+  opacity: 0.7;
+}
